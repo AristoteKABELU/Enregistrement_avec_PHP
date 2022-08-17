@@ -1,0 +1,22 @@
+body{
+    width: 800px;
+    height: auto;
+    margin-left:auto ;
+    margin-right: auto;
+    
+}
+
+form{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 15px;
+    width: 300px;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+input[type = submit], input[type = reset] {
+    border: 1px solid white;
+    background: black;
+    color: white;
+}
